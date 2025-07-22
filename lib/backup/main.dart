@@ -4,6 +4,8 @@ import 'ui/screens/register_screen.dart';
 import 'ui/screens/main_menu.dart';
 import 'ui/screens/settings_screen.dart';
 import 'ui/screens/help_screen.dart';
+import 'graph_widget.dart';
+import 'currency_checker.dart';
 
 void main() {
   runApp(MyApp());
